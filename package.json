@@ -1,4 +1,6 @@
 {
-    "name": "feed-news",
-    "version": "1.0.0"
-  }
+  "name": "news-feeder",
+  "version": "1.0.0",
+  "keywords": [],
+  "description": ""
+}
